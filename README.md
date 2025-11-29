@@ -1,4 +1,4 @@
-#Airbnb Price & Revenue Analysis Dashboard
+# Airbnb Price & Revenue Analysis Dashboard
 
 A Tableau dashboard visualizing key insights from Airbnb listing data, focusing on pricing trends, regional patterns, bedroom-wise averages, and revenue behavior throughout the year. This project highlights how location, number of bedrooms, and zipcode influence listing prices, helping users understand market dynamics at a glance.
 
@@ -33,7 +33,7 @@ This project uses publicly available Airbnb listings data, containing fields suc
 6. Calendar/Revenue data
 7. Other listing attributes
 
-#The dataset was cleaned and prepared before visualization.
+# The dataset was cleaned and prepared before visualization.
 
 
 🛠 Tools & Technologies
