@@ -2,7 +2,9 @@
 
 A Tableau dashboard visualizing key insights from Airbnb listing data, focusing on pricing trends, regional patterns, bedroom-wise averages, and revenue behavior throughout the year. This project highlights how location, number of bedrooms, and zipcode influence listing prices, helping users understand market dynamics at a glance.
 
-Dashboard Overview
+
+
+📊 Dashboard Overview
 
 This Tableau dashboard includes multiple interactive views that explore:
 
