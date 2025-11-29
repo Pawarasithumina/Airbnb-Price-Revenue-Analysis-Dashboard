@@ -35,7 +35,7 @@ This project uses publicly available Airbnb listings data, containing fields suc
 6. Calendar/Revenue data
 7. Other listing attributes
 
-# The dataset was cleaned and prepared before visualization.
+The dataset was cleaned and prepared before visualization.
 
 
 🛠 Tools & Technologies
